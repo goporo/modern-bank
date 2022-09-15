@@ -10,3 +10,4 @@ export { default as Footer } from "./Footer";
 export { default as Testimonials } from "./Testimonials";
 export { default as Hero } from "./Hero";
 export { default as GetStarted } from "./GetStarted";
+export { default as FeedBackCard } from "./FeedBackCard";
